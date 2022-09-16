@@ -1,4 +1,4 @@
-### Olá! Sou David Jean 
+Olá!!! Sou David Jean 
 
 - Estudo Análise desenvolvimento de sistemas / nodejs-typescrpit
 - Atualmente sou membro de uma equipe de produção
