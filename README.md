@@ -1,6 +1,6 @@
 Olá Sou David Jean 
 
-- Estudo Análise desenvolvimento de sistemas "nodejs-typescrpit-mongoDB" 
+- Estudante de Análise desenvolvimento de sistemas "nodejs-typescrpit-mongoDB" 
 - Atualmente sou membro de uma equipe de produção
 - Objetivo Trabalhar como desenvolvedor Backend
 
