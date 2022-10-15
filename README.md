@@ -2,7 +2,7 @@ Olá Sou "David Jean"
 
 - Estudante de Análise desenvolvimento de sistemas.
 - Atualmente trabalho na preparação e qualidade de produtos defensivos agrícolas. 
-- Meu objetivo é Trabalhar como desenvolvedor Backend.
+- Meu objetivo é Trabalhar como desenvolvedor Back-end.
 - Conhecimentos: "nodejs-typescrpit-mongoDB-javaScript básico".
 
 <div align="center">
