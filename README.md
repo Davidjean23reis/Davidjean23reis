@@ -1,8 +1,8 @@
-Olá Sou David Jean.
+Olá Sou "David Jean"
 
 - Estudante de Análise desenvolvimento de sistemas.
-- Atualmente trabalho no preparção e qualidade defensivos agrícolas. 
-- Meu objetivo Trabalhar como desenvolvedor Backend.
+- Atualmente trabalho no preparação e qualidade de produtos defensivos agrícolas. 
+- Meu objetivo é Trabalhar como desenvolvedor Backend.
 - Conhecimentos: "nodejs-typescrpit-mongoDB-javaScript básico".
 
 <div align="center">
