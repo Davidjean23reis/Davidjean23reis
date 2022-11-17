@@ -3,7 +3,7 @@ Olá Me Chamo David Jean
 - Estudante de Análise desenvolvimento de sistemas.
 - Atualmente trabalho na preparação e qualidade de produtos defensivos agrícolas. 
 - Objetivo: Desenvolvedor Junior
-- Conhecimentos: Nodejs | typescrpit | mongoDB | javaScript | Docker | kubernetes
+- Conhecimentos: Nodejs | typescrpit | mongoDB | javaScript | Docker | kubernetes | Git | Github
 
 <div align="center">
   <a href="https://github.com/Davidjean23reis">
@@ -13,7 +13,7 @@ Olá Me Chamo David Jean
 <div style="display: inline_block"><br>
   <img align="center" alt="David-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
           
 </div>
   
