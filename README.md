@@ -1,4 +1,4 @@
-Olá Me Chamo David Jean
+Olá, Me Chamo David Jean
 
 - Estudante de Análise desenvolvimento de sistemas.
 - Atualmente trabalho na preparação e qualidade de produtos defensivos agrícolas. 
