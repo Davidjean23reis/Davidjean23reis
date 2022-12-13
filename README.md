@@ -3,7 +3,7 @@ Olá Me Chamo David Jean
 - Estudante de Análise desenvolvimento de sistemas.
 - Atualmente trabalho na preparação e qualidade de produtos defensivos agrícolas. 
 - Objetivo: Desenvolvedor Junior
-- Conhecimentos: Microsoft Word-PowerPoint-Excel | Nodejs | typescrpit | mongoDB | javaScript | Docker | kubernetes | Git | Github
+- Conhecimentos: Microsoft Word-PowerPoint-Excel | Nodejs | typescrpit | mongoDB | javaScript | Docker | kubernetes | Git | Github | Sql | Mysql
 
 <div align="center">
   <a href="https://github.com/Davidjean23reis">
