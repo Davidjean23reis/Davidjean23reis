@@ -13,7 +13,7 @@ Olá, sou David Jean, estudante de Análise e Desenvolvimento de Sistemas com fo
   <img align="center" alt="David-Ts" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="David-Ts" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="David-C#" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img  align="center" alt="David-HTML" height="30" width="40"                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+
           
 
           
