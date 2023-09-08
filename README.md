@@ -1,9 +1,13 @@
-Olá, Me Chamo David Jean.
+Olá, sou David Jean, estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web. Meu objetivo é construir uma carreira como desenvolvedor, e estou comprometido em aprimorar minhas habilidades e contribuir para projetos inovadores.
+Minhas competências incluem:
+• HTML5 | CSS: Tenho experiência em criar interfaces web atraentes e responsivas, garantindo uma excelente experiência do usuário.
+• Visual Studio Code | JavaScript | TypeScript: Utilizo essas ferramentas e linguagens para desenvolver aplicações web interativas e dinâmicas, com um foco na qualidade do código.
+• Programação Orientada a Objetos: Compreendo os princípios da POO, o que me permite criar soluções de software escaláveis e de fácil manutenção.
+• SQL Server | C# | ASP.NET MVC: Tenho conhecimento em desenvolvimento de aplicativos empresariais usando tecnologias Microsoft, o que me permite criar sistemas robustos e seguros.
+• Git | GitHub: Utilizo o Git como parte fundamental do meu fluxo de trabalho, colaborando eficientemente em projetos e garantindo o controle de versões.
+Estou empolgado com a oportunidade de aplicar essas habilidades e aprender mais enquanto contribuo para projetos desafiadores e inovadores. Estou aberto a oportunidades de estágio ou colaborações em equipe que possam me ajudar a crescer profissionalmente e fazer a diferença no mundo do desenvolvimento de software.
+Se você busca um desenvolvedor comprometido com o aprendizado contínuo e uma paixão por criar soluções de alta qualidade, estou pronto para fazer parte da sua equipe. Obrigado pela consideração. 
 
-- Estudante de Análise desenvolvimento de sistemas.
-- Atualmente trabalho na preparação e qualidade de produtos defensivos agrícolas. 
-- Objetivo: Desenvolvedor Junior
-- Conhecimentos: Microsoft Word-PowerPoint-Excel | Nodejs | typescrpit | mongoDB | javaScript | Docker | kubernetes | Git | Github | Sql | Mysql
 
 <div align="center">
   <a href="https://github.com/Davidjean23reis">
