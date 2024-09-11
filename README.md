@@ -1,4 +1,4 @@
-Olá, sou David Jean, estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web. Meu objetivo é construir uma carreira como desenvolvedor, e estou comprometido em aprimorar minhas habilidades e contribuir para projetos inovadores.
+Desenvolvedor Backend na Digital Hub | Estudante de Análise e Desenvolvimento de Sistemas com Foco em Web
 <div align="center">
   <a href="https://github.com/Davidjean23reis">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Davidjean23reis&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
