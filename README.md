@@ -1,4 +1,4 @@
-Software developer | Estudante de Análise e Desenvolvimento de Sistemas com Foco em Web
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor backend
 <div align="center">
   <a href="https://github.com/Davidjean23reis">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Davidjean23reis&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
