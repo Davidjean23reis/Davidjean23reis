@@ -22,6 +22,6 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Backend
 ##
 
 <div> 
-  <a href="linkedin.com/in/david-jean1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://api.whatsapp.com/send?phone=5524992241560&text=Ol%C3%A1%20Mundo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/david-jean1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5524992241560&text=Ol%C3%A1%20Mundo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 </div>
